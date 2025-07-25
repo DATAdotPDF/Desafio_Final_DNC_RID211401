@@ -1,0 +1,15 @@
+Ativando ambiente virtual...
+Ambiente virtual: /Users/pdf/Library/Mobile Documents/com~apple~CloudDocs/0.1 DNC/ENGENHARIA DE DADOS/Engenharia de Dados(Aulas)/Desafio Final/dnc_pipeline/venv/bin/python
+Diretório atual: /Users/pdf/Library/Mobile Documents/com~apple~CloudDocs/0.1 DNC/ENGENHARIA DE DADOS/Engenharia de Dados(Aulas)/Desafio Final/dnc_pipeline
+Log em: logs/pipeline_20250725_1219.log
+Executando pipeline...
+/Users/pdf/Library/Mobile Documents/com~apple~CloudDocs/0.1 DNC/ENGENHARIA DE DADOS/Engenharia de Dados(Aulas)/Desafio Final/dnc_pipeline/03_codigo/etl_pipeline.py:101: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  agrupado = df.groupby(['faixa_etaria', 'subscription_status']).agg(
+/Users/pdf/Library/Mobile Documents/com~apple~CloudDocs/0.1 DNC/ENGENHARIA DE DADOS/Engenharia de Dados(Aulas)/Desafio Final/dnc_pipeline/03_codigo/etl_pipeline.py:107: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  total_por_faixa = df.groupby('faixa_etaria')['id'].count().reset_index(name='total_faixa')
+/Users/pdf/Library/Mobile Documents/com~apple~CloudDocs/0.1 DNC/ENGENHARIA DE DADOS/Engenharia de Dados(Aulas)/Desafio Final/dnc_pipeline/03_codigo/etl_pipeline.py:108: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  ativos_por_faixa = df[df['subscription_status'] == 'active'].groupby('faixa_etaria')['id'].count().reset_index(name='qtd_ativos')
+Arquivo enviado para: s3://dncinsight-pipeline-rid211401/bronze/raw_data.csv
+Silver enviado para: s3://dncinsight-pipeline-rid211401/silver/usuarios_limpos.csv
+Gold enviado para: s3://dncinsight-pipeline-rid211401/gold/usuarios_agrupados.csv
+Pipeline completo executado com sucesso.

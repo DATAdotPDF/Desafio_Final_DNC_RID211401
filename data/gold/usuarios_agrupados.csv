@@ -1,0 +1,13 @@
+faixa_etaria,subscription_status,qtd_usuarios,idade_media,dias_desde_cadastro_media,pct_ativos_na_faixa
+19–30,active,1705,24.4,1226.4,49.1
+19–30,inactive,1771,24.6,1212.1,49.1
+31–40,active,1391,35.5,1238.9,50.0
+31–40,inactive,1389,35.6,1237.8,50.0
+41–50,active,1434,45.6,1234.8,50.7
+41–50,inactive,1395,45.4,1215.8,50.7
+51–60,active,1434,55.5,1233.0,50.4
+51–60,inactive,1411,55.6,1227.2,50.4
+61–70,active,1452,65.4,1234.5,49.8
+61–70,inactive,1463,65.5,1225.1,49.8
+71+,active,3041,81.0,1223.4,50.2
+71+,inactive,3017,81.0,1231.3,50.2

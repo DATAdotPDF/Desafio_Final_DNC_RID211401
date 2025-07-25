@@ -1,0 +1,6 @@
+dash
+plotly
+boto3
+pandas
+python-dotenv
+pyarrow

@@ -1,0 +1,1551 @@
+[2025-07-25T16:51:25.716+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T16:51:25.717+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T16:51:25.717+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T16:51:25.717+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T16:51:25.718+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T16:56:26.307+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T16:56:26.313+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T16:57:26.969+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T16:57:55.834+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T16:57:55.834+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T16:57:55.835+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T16:57:55.835+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T16:57:55.835+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:00:26.587+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T17:00:42.266+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T17:00:42.267+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T17:00:42.268+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T17:00:42.268+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:00:42.269+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:05:42.757+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:05:42.761+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:10:43.312+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:10:43.316+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:15:43.967+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:15:43.974+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:20:44.814+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:20:44.822+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:25:45.623+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:25:45.627+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:30:46.236+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:30:46.241+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:35:46.556+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:35:46.563+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:40:47.167+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:40:47.174+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:45:47.179+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:45:47.185+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:50:47.954+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:50:47.961+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:55:48.644+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T17:55:48.650+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T17:56:01.517+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:10:01.317+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:10:01.318+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:10:01.318+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:10:01.318+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:10:01.319+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T18:15:01.913+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:15:01.920+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T18:19:14.108+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:26:48.499+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:26:48.500+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:26:48.501+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:26:48.501+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:26:48.506+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T18:29:28.498+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:31:26.233+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:31:26.233+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:31:26.233+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:31:26.234+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:31:26.234+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2025-07-25T18:33:18.483+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:39:09.070+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:39:09.071+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:39:09.072+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:39:09.073+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:39:09.086+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:39:25.187+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.63s           2025-07-25T18:39:09
+================================================================================
+[2025-07-25T18:39:27.328+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:42:50.925+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:42:50.926+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:42:50.926+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:42:50.926+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:42:50.928+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:42:50.960+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.02s             0           0
+================================================================================
+[2025-07-25T18:43:21.149+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.66s           2025-07-25T18:42:51
+================================================================================
+[2025-07-25T18:43:51.362+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.29s           2025-07-25T18:43:22
+================================================================================
+[2025-07-25T18:44:21.611+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.29s           2025-07-25T18:43:52
+================================================================================
+[2025-07-25T18:44:52.186+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T18:44:23
+================================================================================
+[2025-07-25T18:45:22.634+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T18:44:53
+================================================================================
+[2025-07-25T18:45:52.890+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T18:45:23
+================================================================================
+[2025-07-25T18:46:23.348+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T18:45:54
+================================================================================
+[2025-07-25T18:46:53.637+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T18:46:24
+================================================================================
+[2025-07-25T18:47:24.041+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T18:46:54
+================================================================================
+[2025-07-25T18:47:51.337+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:47:51.350+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:47:54.389+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T18:47:25
+================================================================================
+[2025-07-25T18:48:24.808+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T18:47:55
+================================================================================
+[2025-07-25T18:48:55.246+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.18s           2025-07-25T18:48:50
+================================================================================
+[2025-07-25T18:49:25.539+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.21s           2025-07-25T18:49:20
+================================================================================
+[2025-07-25T18:49:55.948+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.19s           2025-07-25T18:49:50
+================================================================================
+[2025-07-25T18:50:26.237+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.18s           2025-07-25T18:50:21
+================================================================================
+[2025-07-25T18:50:56.602+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.17s           2025-07-25T18:50:51
+================================================================================
+[2025-07-25T18:51:11.170+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:51:34.911+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:51:34.912+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:51:34.912+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:51:34.913+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:51:34.926+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:51:34.965+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.02s             0           0
+================================================================================
+[2025-07-25T18:52:05.149+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.64s           2025-07-25T18:51:35
+================================================================================
+[2025-07-25T18:52:35.305+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.25s           2025-07-25T18:52:06
+================================================================================
+[2025-07-25T18:53:05.578+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.26s           2025-07-25T18:52:36
+================================================================================
+[2025-07-25T18:53:35.878+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.17s           2025-07-25T18:53:12
+================================================================================
+[2025-07-25T18:53:38.095+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T18:53:50.936+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T18:53:50.937+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T18:53:50.937+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T18:53:50.938+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:53:50.939+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:53:50.970+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.01s             0           0
+================================================================================
+[2025-07-25T18:54:21.195+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.62s           2025-07-25T18:53:51
+================================================================================
+[2025-07-25T18:54:51.306+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.18s           2025-07-25T18:54:22
+================================================================================
+[2025-07-25T18:55:21.617+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.17s           2025-07-25T18:54:52
+================================================================================
+[2025-07-25T18:55:51.951+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.16s           2025-07-25T18:55:22
+================================================================================
+[2025-07-25T18:56:22.280+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.17s           2025-07-25T18:55:53
+================================================================================
+[2025-07-25T18:56:52.603+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.26s           2025-07-25T18:56:23
+================================================================================
+[2025-07-25T18:57:23.019+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.19s           2025-07-25T18:56:53
+================================================================================
+[2025-07-25T18:57:53.287+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.19s           2025-07-25T18:57:24
+================================================================================
+[2025-07-25T18:58:23.704+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.19s           2025-07-25T18:57:54
+================================================================================
+[2025-07-25T18:58:50.985+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T18:58:50.996+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T18:58:54.034+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.17s           2025-07-25T18:58:24
+================================================================================
+[2025-07-25T18:59:24.426+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.22s           2025-07-25T18:58:55
+================================================================================
+[2025-07-25T18:59:41.403+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T19:00:08.457+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T19:00:08.457+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T19:00:08.458+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T19:00:08.458+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:00:08.460+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:00:08.497+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.02s             0           0
+================================================================================
+[2025-07-25T19:00:38.668+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.63s           2025-07-25T19:00:09
+================================================================================
+[2025-07-25T19:01:08.809+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           0           1  0.28s           2025-07-25T19:00:39
+================================================================================
+[2025-07-25T19:01:37.791+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T19:02:05.498+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T19:02:05.498+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T19:02:05.498+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T19:02:05.498+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:02:05.500+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:02:05.535+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.01s             0           0
+================================================================================
+[2025-07-25T19:02:35.727+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.63s           2025-07-25T19:02:06
+================================================================================
+[2025-07-25T19:03:05.909+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.32s           2025-07-25T19:02:36
+================================================================================
+[2025-07-25T19:03:36.213+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:03:07
+================================================================================
+[2025-07-25T19:04:06.574+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:03:37
+================================================================================
+[2025-07-25T19:04:36.983+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:04:07
+================================================================================
+[2025-07-25T19:05:07.205+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:04:38
+================================================================================
+[2025-07-25T19:05:37.579+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:05:08
+================================================================================
+[2025-07-25T19:06:07.945+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T19:05:38
+================================================================================
+[2025-07-25T19:06:29.541+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T19:06:45.126+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T19:06:45.127+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T19:06:45.128+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T19:06:45.128+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:06:45.130+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:06:45.164+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    166  0.01s             0           0
+================================================================================
+[2025-07-25T19:07:15.346+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.63s           2025-07-25T19:06:45
+================================================================================
+[2025-07-25T19:07:45.606+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.44s           2025-07-25T19:07:16
+================================================================================
+[2025-07-25T19:08:15.863+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T19:07:46
+================================================================================
+[2025-07-25T19:08:46.343+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:08:17
+================================================================================
+[2025-07-25T19:09:16.662+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:08:47
+================================================================================
+[2025-07-25T19:09:47.075+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:09:17
+================================================================================
+[2025-07-25T19:10:17.322+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:09:48
+================================================================================
+[2025-07-25T19:10:47.808+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:10:18
+================================================================================
+[2025-07-25T19:11:18.108+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:10:49
+================================================================================
+[2025-07-25T19:11:45.503+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:11:45.511+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:11:48.546+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:11:19
+================================================================================
+[2025-07-25T19:12:18.857+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:11:49
+================================================================================
+[2025-07-25T19:12:49.265+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:12:20
+================================================================================
+[2025-07-25T19:13:19.577+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:12:50
+================================================================================
+[2025-07-25T19:13:33.056+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T19:13:46.712+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T19:13:46.712+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T19:13:46.712+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T19:13:46.713+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:13:46.714+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:13:46.748+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.01s             0           0
+================================================================================
+[2025-07-25T19:14:16.933+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.64s           2025-07-25T19:13:47
+================================================================================
+[2025-07-25T19:14:46.951+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.28s           2025-07-25T19:14:17
+================================================================================
+[2025-07-25T19:15:17.413+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:14:48
+================================================================================
+[2025-07-25T19:15:47.706+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:15:18
+================================================================================
+[2025-07-25T19:16:18.144+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:15:48
+================================================================================
+[2025-07-25T19:16:48.400+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.17s           2025-07-25T19:16:19
+================================================================================
+[2025-07-25T19:17:18.830+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:16:49
+================================================================================
+[2025-07-25T19:17:49.078+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T19:17:20
+================================================================================
+[2025-07-25T19:18:19.588+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:17:50
+================================================================================
+[2025-07-25T19:18:46.861+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:18:46.866+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:18:49.903+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T19:18:20
+================================================================================
+[2025-07-25T19:19:20.301+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.30s           2025-07-25T19:18:51
+================================================================================
+[2025-07-25T19:19:50.734+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T19:19:21
+================================================================================
+[2025-07-25T19:20:21.101+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:19:51
+================================================================================
+[2025-07-25T19:20:51.468+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T19:20:22
+================================================================================
+[2025-07-25T19:21:21.878+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:20:52
+================================================================================
+[2025-07-25T19:21:52.175+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:21:23
+================================================================================
+[2025-07-25T19:22:22.455+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:21:53
+================================================================================
+[2025-07-25T19:22:52.985+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:22:23
+================================================================================
+[2025-07-25T19:23:23.321+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T19:22:54
+================================================================================
+[2025-07-25T19:23:47.570+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:23:47.578+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:23:53.654+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:23:24
+================================================================================
+[2025-07-25T19:23:54.608+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-07-25T19:24:12.879+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-07-25T19:24:12.879+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-07-25T19:24:12.879+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-07-25T19:24:12.880+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:24:12.882+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:24:12.927+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dnc_pipeline_dag.py    167  0.02s             0           0
+================================================================================
+[2025-07-25T19:24:43.110+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.68s           2025-07-25T19:24:13
+================================================================================
+[2025-07-25T19:25:13.299+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T19:24:44
+================================================================================
+[2025-07-25T19:25:43.335+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:25:14
+================================================================================
+[2025-07-25T19:26:13.645+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:25:44
+================================================================================
+[2025-07-25T19:26:44.064+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:26:14
+================================================================================
+[2025-07-25T19:27:14.387+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:26:45
+================================================================================
+[2025-07-25T19:27:44.731+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:27:15
+================================================================================
+[2025-07-25T19:28:15.119+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:27:45
+================================================================================
+[2025-07-25T19:28:45.434+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:28:16
+================================================================================
+[2025-07-25T19:29:13.029+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:29:13.038+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:29:15.885+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.38s           2025-07-25T19:28:46
+================================================================================
+[2025-07-25T19:29:46.317+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T19:29:17
+================================================================================
+[2025-07-25T19:30:16.616+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:29:47
+================================================================================
+[2025-07-25T19:30:46.902+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:30:17
+================================================================================
+[2025-07-25T19:31:17.292+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:30:48
+================================================================================
+[2025-07-25T19:31:47.642+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:31:18
+================================================================================
+[2025-07-25T19:32:18.032+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:31:48
+================================================================================
+[2025-07-25T19:32:48.276+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:32:19
+================================================================================
+[2025-07-25T19:33:18.739+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:32:49
+================================================================================
+[2025-07-25T19:33:49.199+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:33:19
+================================================================================
+[2025-07-25T19:34:13.462+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:34:13.472+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:34:19.554+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:33:50
+================================================================================
+[2025-07-25T19:34:50.009+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:34:20
+================================================================================
+[2025-07-25T19:35:20.323+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T19:34:51
+================================================================================
+[2025-07-25T19:35:50.805+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:35:21
+================================================================================
+[2025-07-25T19:36:21.078+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:35:52
+================================================================================
+[2025-07-25T19:36:51.585+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.35s           2025-07-25T19:36:22
+================================================================================
+[2025-07-25T19:37:21.917+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:36:52
+================================================================================
+[2025-07-25T19:37:52.265+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:37:23
+================================================================================
+[2025-07-25T19:38:22.742+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T19:37:53
+================================================================================
+[2025-07-25T19:38:53.143+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:38:23
+================================================================================
+[2025-07-25T19:39:13.512+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:39:13.521+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:39:23.518+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:38:54
+================================================================================
+[2025-07-25T19:39:53.870+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.48s           2025-07-25T19:39:25
+================================================================================
+[2025-07-25T19:40:24.554+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:39:55
+================================================================================
+[2025-07-25T19:40:54.972+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.31s           2025-07-25T19:40:25
+================================================================================
+[2025-07-25T19:41:25.392+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:40:56
+================================================================================
+[2025-07-25T19:41:55.685+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T19:41:26
+================================================================================
+[2025-07-25T19:42:26.009+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:41:56
+================================================================================
+[2025-07-25T19:42:56.445+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:42:27
+================================================================================
+[2025-07-25T19:43:26.693+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:42:57
+================================================================================
+[2025-07-25T19:43:57.124+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:43:27
+================================================================================
+[2025-07-25T19:44:14.335+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:44:14.348+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:44:27.509+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:43:58
+================================================================================
+[2025-07-25T19:44:57.888+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:44:28
+================================================================================
+[2025-07-25T19:45:28.270+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:44:59
+================================================================================
+[2025-07-25T19:45:58.658+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:45:29
+================================================================================
+[2025-07-25T19:46:28.996+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:45:59
+================================================================================
+[2025-07-25T19:46:59.406+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:46:30
+================================================================================
+[2025-07-25T19:47:29.768+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:47:00
+================================================================================
+[2025-07-25T19:48:00.104+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:47:30
+================================================================================
+[2025-07-25T19:48:30.425+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T19:48:01
+================================================================================
+[2025-07-25T19:49:00.871+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:48:31
+================================================================================
+[2025-07-25T19:49:15.024+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:49:15.033+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:49:31.207+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:49:02
+================================================================================
+[2025-07-25T19:50:01.599+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:49:32
+================================================================================
+[2025-07-25T19:50:31.903+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.28s           2025-07-25T19:50:02
+================================================================================
+[2025-07-25T19:51:02.203+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:50:33
+================================================================================
+[2025-07-25T19:51:32.640+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:51:03
+================================================================================
+[2025-07-25T19:52:02.949+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T19:51:33
+================================================================================
+[2025-07-25T19:52:33.332+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:52:04
+================================================================================
+[2025-07-25T19:53:03.657+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T19:52:34
+================================================================================
+[2025-07-25T19:53:34.118+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:53:04
+================================================================================
+[2025-07-25T19:54:04.463+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T19:53:35
+================================================================================
+[2025-07-25T19:54:15.731+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:54:15.743+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:54:34.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:54:05
+================================================================================
+[2025-07-25T19:55:05.210+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T19:54:36
+================================================================================
+[2025-07-25T19:55:35.652+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:55:06
+================================================================================
+[2025-07-25T19:56:06.007+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:55:36
+================================================================================
+[2025-07-25T19:56:36.412+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.17s           2025-07-25T19:56:07
+================================================================================
+[2025-07-25T19:57:06.721+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.30s           2025-07-25T19:56:37
+================================================================================
+[2025-07-25T19:57:37.253+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.30s           2025-07-25T19:57:08
+================================================================================
+[2025-07-25T19:58:07.548+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.25s           2025-07-25T19:57:38
+================================================================================
+[2025-07-25T19:58:38.018+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T19:58:08
+================================================================================
+[2025-07-25T19:59:08.293+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.18s           2025-07-25T19:58:39
+================================================================================
+[2025-07-25T19:59:16.471+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T19:59:16.477+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T19:59:38.694+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T19:59:09
+================================================================================
+[2025-07-25T20:00:09.088+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T19:59:39
+================================================================================
+[2025-07-25T20:00:39.444+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.27s           2025-07-25T20:00:10
+================================================================================
+[2025-07-25T20:01:09.865+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T20:00:40
+================================================================================
+[2025-07-25T20:01:40.161+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T20:01:11
+================================================================================
+[2025-07-25T20:02:10.545+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T20:01:41
+================================================================================
+[2025-07-25T20:02:40.855+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T20:02:11
+================================================================================
+[2025-07-25T20:03:11.180+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T20:02:42
+================================================================================
+[2025-07-25T20:03:41.641+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T20:03:12
+================================================================================
+[2025-07-25T20:04:11.966+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T20:03:42
+================================================================================
+[2025-07-25T20:04:17.178+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T20:04:17.186+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T20:04:42.466+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T20:04:13
+================================================================================
+[2025-07-25T20:05:12.782+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.26s           2025-07-25T20:04:43
+================================================================================
+[2025-07-25T20:05:43.099+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.20s           2025-07-25T20:05:13
+================================================================================
+[2025-07-25T20:06:13.537+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T20:05:44
+================================================================================
+[2025-07-25T20:06:43.803+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.22s           2025-07-25T20:06:14
+================================================================================
+[2025-07-25T20:07:14.058+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.19s           2025-07-25T20:06:44
+================================================================================
+[2025-07-25T20:07:44.533+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.24s           2025-07-25T20:07:15
+================================================================================
+[2025-07-25T20:08:14.868+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T20:07:45
+================================================================================
+[2025-07-25T20:08:45.353+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.32s           2025-07-25T20:08:16
+================================================================================
+[2025-07-25T20:09:15.766+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.23s           2025-07-25T20:08:46
+================================================================================
+[2025-07-25T20:09:17.860+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-07-25T20:09:17.863+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-07-25T20:09:46.131+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.21s           2025-07-25T20:09:16
+================================================================================
+[2025-07-25T20:10:16.550+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.32s           2025-07-25T20:09:47
+================================================================================
+[2025-07-25T20:10:46.958+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.28s           2025-07-25T20:10:17
+================================================================================
+[2025-07-25T20:11:17.315+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dnc_pipeline_dag.py                           1           0  0.30s           2025-07-25T20:10:48
+================================================================================

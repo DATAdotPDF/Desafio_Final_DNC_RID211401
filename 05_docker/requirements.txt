@@ -1,0 +1,7 @@
+boto3
+python-dotenv
+pandas
+s3fs
+pyarrow
+dash
+plotly
