@@ -1,118 +1,115 @@
 <p align="center">
-  <img src="00_documentos/DESAFIO_FINAL_ENG_DADOS_BANNER.png" alt="Banner do Projeto" width="100%" />
+  <img src="00_documentos/DESAFIO_FINAL_ENG_DADOS_BANNER.png" alt="Data Engineering Final Project Banner" width="100%" />
 </p>
 
+# 🚀 Data Pipeline with Airflow, Python, and Dash
 
-# 🚀 Pipeline de Dados com Airflow, Python e Dash
+Final project for DNC's Data Engineering course, developed on macOS. It focuses on ETL automation, Airflow orchestration through Docker, S3 storage, and Plotly Dash visualization.
 
-Projeto final do curso de Engenharia de Dados da DNC, desenvolvido no macOS, com foco em automação de ETL, orquestração com Airflow via Docker, armazenamento no S3 e visualização com Plotly Dash.
+## 📋 Project Description
 
-## 📋 Descrição do Projeto
+This project simulates a complete data engineering pipeline for a fictional company called **DncInsight Solutions**. It uses a `.csv` dataset as the raw source and builds a layered flow (**Bronze**, **Silver**, and **Gold**) with cleaning, enrichment, and aggregation. The final layer is displayed in an interactive dashboard.
 
-Este projeto simula um pipeline completo de engenharia de dados para uma empresa fictícia chamada **DncInsight Solutions**. Ele utiliza um dataset `.csv` como fonte bruta e implementa um fluxo em camadas (**Bronze**, **Silver** e **Gold**) com tratamento, enriquecimento e agregações. A camada final é exibida em um dashboard interativo.
+All automation was built with **Python** and **Airflow**. Processed data is stored in **S3**, and the dashboard was developed with **Plotly Dash**.
 
-Toda a automação foi realizada com **Python** e **Airflow**, os dados tratados são armazenados no **S3**, e o dashboard foi desenvolvido com **Plotly Dash**.
-
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 ```markdown
 dnc_pipeline/
-├── 00_documentos/    # Documentos de apoio e visuais
-├── 01_base_de_dados/ # CSVs brutos e amostras
-├── 02_empresa/       # Informações fictícias e artefatos de negócio
-├── 03_codigo/        # Código ETL original em Python
-├── 04_dag_airflow/   # DAGs e configurações do Airflow
-├── 05_docker/        # docker-compose.yml e arquivos relacionados
-├── 06_dashboard/     # App com Plotly Dash
-├── data/             # Parquets locais (opcional)
-├── logs/             # Logs de execução do pipeline
-├── venv/             # Ambiente virtual Python
-├── .env              # Credenciais e variáveis do ambiente
-├── start.sh          # Script de execução do pipeline
-├── requirements.txt  # Dependências do projeto
-└── README.md         # Este arquivo
+├── 00_documentos/    # Supporting documents and visuals
+├── 01_base_de_dados/ # Raw CSV files and samples
+├── 02_empresa/       # Fictional business information and artifacts
+├── 03_codigo/        # Original Python ETL code
+├── 04_dag_airflow/   # Airflow DAGs and settings
+├── 05_docker/        # docker-compose.yml and related files
+├── 06_dashboard/     # Plotly Dash app
+├── data/             # Optional local Parquet files
+├── logs/             # Pipeline execution logs
+├── venv/             # Python virtual environment
+├── .env              # Credentials and environment variables
+├── start.sh          # Pipeline execution script
+├── requirements.txt  # Project dependencies
+└── README.md         # This file
 ```
 
-## ⚙️ Tecnologias Utilizadas
+## ⚙️ Technologies Used
 
-- **Python 3.11**  
-- **Apache Airflow** (Docker)  
-- **AWS S3** (Bucket: `dncinsight-pipeline-rid211401`)  
-- **pandas**, **boto3**, **pyarrow**  
-- **Plotly Dash**  
-- **macOS Sonoma (13.6.6)**
+- **Python 3.11**
+- **Apache Airflow** with Docker
+- **AWS S3** (bucket: `dncinsight-pipeline-rid211401`)
+- **pandas**, **boto3**, **pyarrow**
+- **Plotly Dash**
+- **macOS Sonoma 13.6.6**
 
-## 🧭 Etapas do Pipeline
+## 🧭 Pipeline Stages
 
-1. Leitura da base bruta diretamente do S3 (camada Raw).  
-2. Transformações iniciais salvas como camada Bronze.  
-3. Enriquecimento e limpeza na camada Silver.  
-4. Agregações e métricas de negócio na camada Gold.  
-5. Visualização em tempo real com filtros dinâmicos no Dash.
+1. Read the raw data directly from S3 (Raw layer).
+2. Save initial transformations as the Bronze layer.
+3. Clean and enrich the data in the Silver layer.
+4. Build business aggregations and metrics in the Gold layer.
+5. Display the result in Dash with dynamic filters.
 
-## ✅ Como Executar Localmente (macOS)
+## ✅ Run Locally on macOS
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/DATAdotPDF/Desafio_Final_DNC_RID211401.git
 cd dnc_pipeline
 
-# Crie o ambiente virtual
+# Create the virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# Instale as dependências
+# Install dependencies
 pip install -r requirements.txt
 
-# Crie um arquivo .env com as variáveis:
-AWS_ACCESS_KEY_ID=sua_chave
-AWS_SECRET_ACCESS_KEY=sua_secret
+# Create a .env file with these variables:
+AWS_ACCESS_KEY_ID=your_key
+AWS_SECRET_ACCESS_KEY=your_secret
 AWS_REGION=sa-east-1
 S3_BUCKET_NAME=dncinsight-pipeline-rid211401
 
-# Execute o pipeline:
+# Run the pipeline
 bash start.sh
 
-# Execute o dashboard:
+# Run the dashboard
 python 06_dashboard/app.py
 ```
 
-### ☁️ Execução com Airflow (Docker)
+### ☁️ Run with Airflow and Docker
 ```bash
 cd 05_docker
 
-# Inicialize o ambiente
+# Initialize the environment
 docker-compose up airflow-init
 docker-compose up
 ```
 
-Acesse [http://localhost:8080](http://localhost:8080)  
-**Usuário:** airflow  
-**Senha:** airflow  
+Open [http://localhost:8080](http://localhost:8080).  
+**Username:** airflow  
+**Password:** airflow  
 
-Execute a DAG `dnc_pipeline` manualmente pela interface.
+Run the `dnc_pipeline` DAG manually from the interface.
 
 ### 📊 Dashboard
-O dashboard interativo exibe:  
-- Quantidade de usuários por faixa etária e status.  
-- Porcentagem de usuários ativos por grupo.  
-- Média de dias desde o cadastro.  
-- Filtros dinâmicos por faixa etária e status.
+The interactive dashboard displays:
+- User count by age group and status.
+- Percentage of active users by group.
+- Average number of days since registration.
+- Dynamic filters by age group and status.
 
-### 📌 Observações
-- Projeto desenvolvido e testado exclusivamente no macOS.  
-- Comandos e permissões podem variar em Windows ou Linux.  
-- Estrutura modular, preparada para deploy futuro em nuvem ou versão pública.
-
----
-
-## 📚 Referências
-
-- [DNC Escola de Dados](https://www.escoladnc.com.br)  
-- [AWS S3](https://aws.amazon.com/pt/s3/)  
-- [Plotly Dash](https://dash.plotly.com/)  
-- [Apache Airflow](https://airflow.apache.org/)  
-- [GitHub do Projeto SIDRA](https://github.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6)  
+### 📌 Notes
+- Developed and tested exclusively on macOS.
+- Commands and permissions may differ on Windows or Linux.
+- Modular structure prepared for a future cloud deployment or public release.
 
 ---
 
-Desenvolvido por [Pedro Ferreira – LinkedIn](https://www.linkedin.com/in/datadotpdf)
+## 📚 References
+
+- [DNC Data School](https://www.escoladnc.com.br)
+- [AWS S3](https://aws.amazon.com/pt/s3/)
+- [Plotly Dash](https://dash.plotly.com/)
+- [Apache Airflow](https://airflow.apache.org/)
+- [SIDRA Project GitHub](https://github.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6)
+
+Developed by [Pedro Ferreira – LinkedIn](https://www.linkedin.com/in/datadotpdf)
